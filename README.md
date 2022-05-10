@@ -1,0 +1,2 @@
+# How-To-Get-Current-User-ID-In-Laravel-
+How To Get Current User ID In Laravel The answer: using the Auth facade.  When Laravel is configured with authentication, the Auth facade becomes useful for actions like grabbing the current logged in user id. Auth comes with various methods, one of which is the id() method, and this is where we can grab the authenticated users’ information.  Use the following steps to get the ID of the current logged in user.
